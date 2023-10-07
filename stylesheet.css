@@ -6,9 +6,11 @@ h1 {
 	color:red;
 }
 
-table, th, td {
+h2 {
+	color:blue;
+}
 
-	border-collapse: collapse;
+table {
 	border-style: solid;
 	border: 1px;
 }
